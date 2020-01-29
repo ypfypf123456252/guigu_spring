@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <bean id="car" class="bean的生命周期.Car" init-method="init" destroy-method="destroy">
+        <property name="brand" value="audi"/>
+    </bean>
+
+    <!--配置bean的后置处理器:不需要配置id,IOC容器自动识别是一个BeanPostProcessor后置处理器-->
+    <bean class="bean的生命周期.MyBeanPostProcessor"/>
+</beans>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="Bean01" removed="false">
+          <file>file://$MODULE_DIR$/src/main/java/beans/bean01.xml</file>
+        </fileset>
+        <fileset id="fileset2" name="Bean02" removed="false">
+          <file>file://$MODULE_DIR$/src/main/java/collection/bean02.xml</file>
+        </fileset>
+        <fileset id="fileset3" name="Beans Autowire" removed="false">
+          <file>file://$MODULE_DIR$/src/main/java/autowire_自动装配/beans-autowire.xml</file>
+        </fileset>
+        <fileset id="fileset4" name="Beans Relation" removed="false">
+          <file>file://$MODULE_DIR$/src/main/java/relation/beans-relation.xml</file>
+        </fileset>
+        <fileset id="fileset5" name="Beans Properties" removed="false">
+          <file>file://$MODULE_DIR$/src/main/java/properties/beans-properties.xml</file>
+        </fileset>
+        <fileset id="fileset6" name="Beans Spel" removed="false">
+          <file>file://$MODULE_DIR$/src/main/java/spel/beans-spel.xml</file>
+        </fileset>
+        <fileset id="fileset7" name="Cycle" removed="false">
+          <file>file://$MODULE_DIR$/src/main/java/bean的生命周期/cycle.xml</file>
+        </fileset>
+        <fileset id="fileset8" name="Beans Factory" removed="false">
+          <file>file://$MODULE_DIR$/src/main/java/bean_通过工厂方法配置bean/beans-factory.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+</module>

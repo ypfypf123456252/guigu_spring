@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="Bean01" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/bean01.xml</file>
+        </fileset>
+        <fileset id="fileset2" name="Bean02" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/bean02.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+</module>
